@@ -1,0 +1,17 @@
+
+.box {
+    background: red;
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+
+.box-2 {
+    background: blue;
+    
+}
+
+.box-3 {
+    background: green;
+    
+}
